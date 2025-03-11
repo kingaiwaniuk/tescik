@@ -4,4 +4,6 @@ pierwsza próba pisania
 
 wow mamy już drugą linijkę
 
-kolejna linijka
+
+nowiutka
+
