@@ -1,1 +1,3 @@
 # tescik
+
+pierwsza próba pisania
